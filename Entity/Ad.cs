@@ -11,3 +11,5 @@ namespace Entity
         public string AdName { set; get; }
     }
 }
+
+//垃圾
